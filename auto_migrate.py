@@ -12,7 +12,7 @@ from bottle import route, run,get, post, request
 
 
 auth_url='http://172.16.0.5:35357/v2.0'
-admin_pass='beyond630'
+admin_pass='********'
 
 
 def get_nova_client():
